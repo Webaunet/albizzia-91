@@ -50,7 +50,7 @@ p{margin:0}
   .nav a{min-height:48px;display:flex;align-items:center;border-bottom:1px solid var(--line);font-size:1.1rem}
   .call .txt{display:none}.call{padding:.7rem;min-width:48px}
 }
-@media(min-width:981px) and (max-width:1100px){.nav{gap:.8rem}.nav a{font-size:.95rem}.logo small{display:none}.site-header .wrap{gap:.8rem}.call{padding-inline:1rem}}
+@media(min-width:981px) and (max-width:1100px){.nav{gap:.8rem}.nav a{font-size:.95rem}.logo small{display:none}.site-header .wrap{gap:.8rem}.call .txt{display:none}.call{padding:.7rem;min-width:48px}}
 
 /* Sections empilées à bords courbes (le fond de la section précédente apparaît dans le coin) */
 .sec{position:relative;padding-block:96px;min-height:85svh;display:flex;flex-direction:column;justify-content:center}
